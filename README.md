@@ -1,7 +1,7 @@
 # CMPE-255 - Bonus Work
 
 SJSU ID : 016040648
-Name : Vinay KUmar Reddy Seelam
+Name : Vinay Kumar Reddy Seelam
 
 
 To train one model (tensorflow or pytorch) and deploy the model by selecting one of the following features: 
