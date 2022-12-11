@@ -55,14 +55,14 @@ The line graph shows the trend of time usage by OpenVINO inference vs TF inferen
 3. Memory Usage OpenVINO vs Tensorflow inference
 
 
-![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_bar.png)
+![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_1.png)
 
 From the picture we can infer that there isn't that much of difference in the memory consumption in the OpeVINO environment and TF inference environment.
 
 
 4. Memory Usage trends in OpenVINO vs Tensorflow inference.
 
-![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_Line_mem.png)
+![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_2.png)
 
 Trendrs explains the same thing as Memory usage graph above
 
