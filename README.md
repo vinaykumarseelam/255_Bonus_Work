@@ -39,10 +39,11 @@ Firstly training the model with tensorflow and the optimizing it using OpenVINO 
 
 Visualisation Results : 
 
+1.Time taken by OpenVINO vs Tensorflow Inference
 
 ![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_BarGraph.png)
 
-Graph representing the various time by the model to predict the class labels in normal tensor flow environment vs that in OpenVINO envirnoment : 
+Graph representing the various time by the model to predict the class labels in normal tensor flow environment vs that in OpenVINO envirnoment, we can clearly see that OpenVINO takes a way less time than that of the Tensorflow inference for various test sizes.
 
 
 ![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_LineGraph.png)
