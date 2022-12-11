@@ -50,7 +50,12 @@ Graph representing the various time by the model to predict the class labels in 
 
 This Graph Represents the memory usage for various test size
 
-![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/bar_mem_inference.pdf)
+![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_bar.png)
+
+
+
+
+![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_Line_mem.png)
 
 
 
