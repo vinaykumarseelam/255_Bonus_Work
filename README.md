@@ -69,7 +69,7 @@ Trendrs explains the same thing as Memory usage graph above
 
 Conclusion : From the above visualiztion we the point out that the OpenVINO takes much less execution time and this inequality grows exponentially with the test size and interms of memory consumption there isn't any big difference even though OpenVINO usage is little fraction over TF inference,it levarages it by faster execution time. Infact OpenVINO uses a 2% more memory over TF inference but provides the twice the faster results and as test size increases the better the performance parity over TF.
 
-
+Colab Link : https://colab.research.google.com/drive/1odEIYKviZHcyYKqqrQe8GiP6QMv6SJdU?authuser=3#scrollTo=JTVgSEV36F8H
 
 
 
