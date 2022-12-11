@@ -41,13 +41,13 @@ Visualisation Results :
 
 1. Time taken by OpenVINO vs Tensorflow inference
 
-![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_BarGraph.png)
+![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_1.png)
 
 Graph representing the various time by the model to predict the class labels in normal tensor flow environment vs that in OpenVINO envirnoment, we can clearly see that OpenVINO takes a way less time than that of the Tensorflow inference for various test sizes.
 
 2. Time usage trends for OpenVINO and Tensorflow inference.
 
-![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_LineGraph.png)
+![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_2.png)
 
 The line graph shows the trend of time usage by OpenVINO inference vs TF inference which gives us the idea of how OpenVINO outperforms TF inference interms of execution tome
 
@@ -55,14 +55,14 @@ The line graph shows the trend of time usage by OpenVINO inference vs TF inferen
 3. Memory Usage OpenVINO vs Tensorflow inference
 
 
-![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_1.png)
+![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_bar.png)
 
 From the picture we can infer that there isn't that much of difference in the memory consumption in the OpeVINO environment and TF inference environment.
 
 
 4. Memory Usage trends in OpenVINO vs Tensorflow inference.
 
-![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_2.png)
+![image](https://github.com/vinaykumarseelam/255_Bonus_Work/blob/main/255_Line_mem.png)
 
 Trendrs explains the same thing as Memory usage graph above
 
